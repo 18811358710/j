@@ -1,0 +1,35 @@
+[
+  {
+    "logintab":"login-tab-r",
+    "loginname":"loginname",
+    "nloginpwd":"nloginpwd",
+    "loginsubmit":"btn-entry",
+    "username":" ",
+    "password":" ",
+    "msg":"msg-error",
+    "expects":"请输入账户名和密码"
+
+  },
+    {
+    "logintab":"login-tab-r",
+    "loginname":"loginname",
+    "nloginpwd":"nloginpwd",
+    "loginsubmit":"btn-entry",
+    "username":"18811358710",
+    "password":"fu09909",
+    "msg":"msg-error",
+    "expects":"账户名与密码不匹配，请重新输入"
+
+  },
+    {
+    "logintab":"login-tab-r",
+    "loginname":"loginname",
+    "nloginpwd":"nloginpwd",
+    "loginsubmit":"btn-entry",
+    "username":"zhangsan",
+    "password":" ",
+    "msg":"msg-error",
+    "expects":"请输入密码"
+
+  }
+]
